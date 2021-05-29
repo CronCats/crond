@@ -1,6 +1,10 @@
 # crond
 Cron task daemon, enables individuals to participate in the cron service network
 
+## Archived!
+
+This repo has been archived, because the croncat CLI will be made in js allowing users a browser based experience in addition to docker. This repo is for reference only.
+
 ## Setup
 
 * 1. Clone `git clone git@github.com:Cron-Near/crond.git`
